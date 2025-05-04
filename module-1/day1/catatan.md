@@ -1,1 +1,2 @@
-"# Catatan Hari 1" 
+Ringkasan Materi Day 1
+By Me
